@@ -1,1 +1,2 @@
 Sample2
+I have added some info in Sample2
